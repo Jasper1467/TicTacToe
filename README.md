@@ -1,7 +1,6 @@
 # TicTacToe
 
 ## TODO
-- Glow/neon like theme
 - Winner message
 - AI system
 - Point system

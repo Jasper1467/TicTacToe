@@ -6,7 +6,7 @@ function onPlayerChange() {
   // Change hover color
   root.style.setProperty(
     "--block-hover-color",
-    playerIndex === 0 ? "red" : "blue"
+    playerIndex === 0 ? "darkred" : "blue"
   );
 }
 
